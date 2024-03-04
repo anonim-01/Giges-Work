@@ -1,0 +1,32 @@
+## Müfredat
+
+1 - [Süreç Yönetimi](https://example.com/content/14470/89)
+   Süreç Yönetimi, yapılan işlemin kontrolünü yapar, gideceği yönü belirler, uyarılar yapar, mailler atar, bir başka makineyi tetikler, bir başka sunucudan bir sorgu çeker, işlemi yapıp yapamayacağına karar verir. Süreç ve aşamalar kayıtların belge akışlarını düzenler. Belgelerin hazırlık, onay, red mekanizmaları süreç - aşama selectbox'ından gelir.
+
+2 - [İşlem Kategorileri](https://example.com/content/14474/89)
+   Finans, muhasebe, cari işlem, bütçe işlemi, maliyetlendirme ve stok hareketi içeren tüm iş objelerinde yer alan "İşlem Tipi" kurallara ve yetkilere bağlandığı ana yapıdır. Workcube'de işlem kategorileri tanımlanmadan hiçbir para ve stok içeren işlem yapılmaz.
+
+3 - [Temel İş Akışı - Workflow](https://example.com/content/14475/89)
+   İş akışları tasarlamak neden önemlidir? Nasıl yapılmalıdır?
+
+4 - [QPIC - RS](https://example.com/content/14471/89)
+   QPIC - RS matrisi, iş fonksiyonları ve akışının haritalamasını sağlar. İsminde Quality (Kalite), Process (Süreç), Information (Bilgi), Communication (İletişim), Roles (Roller), Stage (Aşama) sözcüklerini içeren matris ile bu bahsedilen kavramların firmaya ait reel haritası çıkarılır.
+
+5 - [Yetki Yönetimi](https://example.com/content/14472/89)
+   Menü, modül, WO-sayfa, şirket, mali yıl-dönem, şube, depo, işlem kategorisi, süreç aşama-iş akışı, dijital varlık grupları, yetki grupları, ana işlem kategorisi, GDPR yetkileri ve kayıt kısıtları Kullanıcı Yetki Yönetimi konusudur.
+
+6 - [Adım Adım Implementasyon](https://example.com/content/14473/89)
+   Adım Adım İmplementasyon ekranları, bütün bir Workcube implementasyonu için gerekli implementasyon adımlarını proje kapsamına göre; çözümler, iş aileleri ve modüller bazında tasnif ederek uygun sıralamaya göre implementasyonun tamamlanması için kullanılan bir rehberdir.
+
+7 - [Uyarı ve Onaylar](https://example.com/content/14480/89)
+   Workcube süreç bazlı bir yapıya sahiptir. Bu süreçlerde kullanıcılar rol ve yetkilerine göre maker veya checker (Yapan veya Kontrol Eden) olarak yer alırlar. Süreç aşamalarının sağlıklı bir şekilde ilerlemesi ve tamamlanması için uyarı - onay mekanizması kritik bir öneme sahiptir.
+
+## Videolar
+
+- [BPM - Adım Adım İmplementasyon](https://www.youtube.com/watch?v=4s9LhAPM2fE)
+- [BPM - İşlem Tipleri - Süreçler - Ana İşlem Kategorileri - Page Settings](https://www.youtube.com/watch?v=DoDz4ApKdXU)
+- [BPM - Genel Ayarlar - Parametreler - İşlem Kategorileri - Page Designer](https://www.youtube.com/watch?v=IXXAAL7O3UM)
+- [BPM - Yetki Yönetimi - Kullanıcı Erişim Ayarları - Implementasyona Giriş](https://www.youtube.com/watch?v=0YMZaGaxAvI)
+- [BPM - Süreç Tasarımı](https://www.youtube.com/watch?v=qIBeDV7lrSo)
+- [BPM - QPIC-RS](https://www.youtube.com/watch?v=pHkF0MvOcO4)
+- [BPM - Kullanıcılar, Yetkiler ve Yetki Grupları](https://www.youtube.com/watch?v=0RPePGzehnM)
